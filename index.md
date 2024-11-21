@@ -63,7 +63,7 @@ A full-stack e-commerce platform built with Node.js and MongoDB.
 
 ---
 
-![Profile Picture](https://www.example.com/profile.jpg)
+![Profile Picture](maahir.jpg)
 
 ---
 
