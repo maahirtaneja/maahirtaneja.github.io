@@ -1,4 +1,7 @@
 # Maahir Taneja's Portfolio
+---
+
+![Profile Picture](maahir.jpg)
 
 Welcome to my portfolio! Below you can find more about me, my education, interests, and how to contact me.
 
@@ -59,11 +62,6 @@ A full-stack e-commerce platform built with Node.js and MongoDB.
 
 ---
 
-
-
----
-
-![Profile Picture](maahir.jpg)
 
 ---
 
